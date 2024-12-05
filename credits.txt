@@ -1,0 +1,4 @@
+asset credits
+PT hallway blender model https://www.reddit.com/r/blender/comments/gwx83r/ported_the_hallway_from_pt_into_blender_eevee/ https://drive.google.com/file/d/1-tVIbSjOoNMVyBtmw7sRKwv1GPxqLZZh/view
+PT audio assets https://www.reddit.com/r/silenthill/comments/dtr40v/silent_hills_pt_models_extracted/ https://drive.google.com/drive/folders/1ETFSfK_l-3SZQsj_2UEnhJUQ8tB_wKFG
+Easter Egg texture https://www.reddit.com/r/PixelArt/comments/o3lcu5/gamecube_texture/
